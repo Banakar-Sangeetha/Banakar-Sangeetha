@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Banakar-Sangeetha
-- 👀 I’m interested in Web Development & Data Science.
-- 🌱 I’m currently learning Web Development & Data Science.
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me sangeethab312003@gmail.com.
 - 😄 Pronouns: she/her.
